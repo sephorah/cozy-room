@@ -4,6 +4,8 @@ My submission for the Three.js Journey Challenge 20, the theme was "Cozy place".
 
 [Live website](https://cozy-pastel-room.netlify.app/)
 
+<img width="1406" height="909" alt="image" src="https://github.com/user-attachments/assets/8f694778-745f-4f8d-ab96-8ff73e8cdc61" />
+
 ## Getting started
 
 ```
