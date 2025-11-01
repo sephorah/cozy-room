@@ -2,7 +2,7 @@
 
 My submission for the Three.js Journey Challenge 20, the theme was "Cozy place".
 
-Live website
+[Live website](https://cozy-pastel-room.netlify.app/)
 
 ## Getting started
 
