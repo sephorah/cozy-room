@@ -2,6 +2,8 @@
 
 My submission for the Three.js Journey Challenge 20, the theme was "Cozy place".
 
+I modeled all 3D assets (credits and tutorial links below).
+
 [Live website](https://cozy-pastel-room.netlify.app/)
 
 <img width="1406" height="909" alt="image" src="https://github.com/user-attachments/assets/8f694778-745f-4f8d-ab96-8ff73e8cdc61" />
@@ -18,6 +20,8 @@ npm run dev
 - [ThreeJs course](https://threejs-journey.com/) by Bruno Simon
 
 ### 3D Modeling
+
+I modelete
 - [art by tran](https://www.instagram.com/artbytran_/): [Cute bedroom tutorial](https://www.youtube.com/watch?v=J6b_pcAX1TQ&list=PLJ4n3Wy6A_vOk7xsHMjHM4jjK9rdo7ueb) and [Cute living room tutorial](https://www.youtube.com/watch?v=D6QjZmbkjhc&list=PLJ4n3Wy6A_vNll0tG5cPTTowhPzIuKpd2)
 - [Andrew Woan](https://www.youtube.com/@andrewwoan): [Create a Cute Award-Winning Room Portfolio Tutorial with Three.js and Blender | Beginner Course](https://www.youtube.com/watch?v=AB6sulUMRGE&list=PLXZA3SYZuHMXYGdb68A7uFtYXxYbSXQP9&index=24)
 - [Soafi3D](https://www.instagram.com/soafi.3d/)
